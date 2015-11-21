@@ -2,7 +2,7 @@
 
 ## Easy and Efficient Matlab-like scientific computing in Scala ##
 
- Note: Additional downloads are in
+ Note: Updated sources and downloads are in
  http://sourceforge.net/projects/scalalab/
 
 
